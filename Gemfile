@@ -39,3 +39,4 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
 gem 'tzinfo'
 
 gem 'rspec-rails'
+gem 'simplecov', :require => false, :group => :test
