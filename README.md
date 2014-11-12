@@ -1,3 +1,4 @@
+#Elf Yourself![travis-ci-status](https://travis-ci.org/kdmcclin/elf-yourself.svg)
 ## Installation
 
 Elf Yourself is built with a Rails backend. To set up:
