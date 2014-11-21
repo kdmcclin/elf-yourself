@@ -59,7 +59,7 @@ GEM
     ffi (1.9.6-x86-mingw32)
     hike (1.2.3)
     i18n (0.6.11)
-    jbuilder (2.2.4)
+    jbuilder (2.2.5)
       activesupport (>= 3.0.0, < 5)
       multi_json (~> 1.2)
     jquery-rails (3.1.2)
@@ -78,7 +78,6 @@ GEM
       mini_portile (~> 0.6.0)
     nokogiri (1.6.4.1-x86-mingw32)
       mini_portile (~> 0.6.0)
-    pg (0.17.1)
     pg (0.17.1-x64-mingw32)
     pg (0.17.1-x86-mingw32)
     rack (1.5.2)
@@ -133,6 +132,8 @@ GEM
       multi_json (~> 1.0)
       rubyzip (~> 1.0)
       websocket (~> 1.0)
+    shoulda-matchers (2.7.0)
+      activesupport (>= 3.0.0)
     simplecov (0.9.1)
       docile (~> 1.1.0)
       multi_json (~> 1.0)
@@ -183,6 +184,7 @@ DEPENDENCIES
   sass-rails (~> 4.0.3)
   sdoc (~> 0.4.0)
   selenium-webdriver (~> 2.43.0)
+  shoulda-matchers
   simplecov
   thin
   tzinfo
